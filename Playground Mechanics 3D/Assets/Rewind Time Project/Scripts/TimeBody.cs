@@ -5,7 +5,7 @@ using UnityEngine;
 public class TimeBody : MonoBehaviour
 {
     private bool isRewinding = false;
-    public float recordTime = 5f;
+    public float recordTime = 7f;
     List<PointInTime> pointInTimes;
     Rigidbody rb;
     // Start is called before the first frame update
